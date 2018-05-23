@@ -1,6 +1,8 @@
 # antcolony
 Homework assignment for Data Structures and Algorithms
 
+Some items were provided by instructor. This assignment is not meant to be copied and turned in as your own work but to see a solution. Utilize what I have done and make it better. There is always room for improvement.
+
 Grading Requirements:
 
 Simulation Events
