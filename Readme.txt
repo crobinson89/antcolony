@@ -11,7 +11,7 @@ Simulation Events
 	Simulation ends properly
 	Simulation capable of running in continuous mode or turn-by-turn mode
 Output
-	GUI is used (either the one I provided or one you built on your own). If you built your own GUI, it clearly indicates 		what is going on in the simulation.
+	GUI is used (either the one I provided or one you built on your own). If you built your own GUI, it clearly indicates what is going on in the simulation.
 Colony Environment
 	A 27 x 27 grid is provided for the ants to move around in and perform their required duties. Any data structure used to model this grid is acceptable.
 	The environment has some way to store food, pheromone, and ants.
